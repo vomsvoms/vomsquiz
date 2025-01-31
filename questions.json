@@ -1,0 +1,32 @@
+[
+    {
+        "category": "Geography",
+        "question": "What is the capital of France?",
+        "answers": [
+            {"text": "Paris", "correct": true},
+            {"text": "London", "correct": false},
+            {"text": "Berlin", "correct": false},
+            {"text": "Madrid", "correct": false}
+        ]
+    },
+    {
+        "category": "Science",
+        "question": "Which planet is known as the Red Planet?",
+        "answers": [
+            {"text": "Earth", "correct": false},
+            {"text": "Mars", "correct": true},
+            {"text": "Jupiter", "correct": false},
+            {"text": "Saturn", "correct": false}
+        ]
+    },
+    {
+        "category": "Geography",
+        "question": "What is the largest ocean on Earth?",
+        "answers": [
+            {"text": "Atlantic Ocean", "correct": false},
+            {"text": "Indian Ocean", "correct": false},
+            {"text": "Pacific Ocean", "correct": true},
+            {"text": "Arctic Ocean", "correct": false}
+        ]
+    }
+]
