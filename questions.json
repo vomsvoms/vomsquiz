@@ -38,5 +38,45 @@
             {"text": "8", "correct": true},
             {"text": "9", "correct": false}
         ]
+    },
+    {
+        "category": "Science",
+        "question": "What is the process by which plants make their own food?",
+        "answers": [
+            {"text": "Respiration", "correct": false},
+            {"text": "Digestion", "correct": false},
+            {"text": "Photosynthesis", "correct": true},
+            {"text": "Fermentation", "correct": false}
+        ]
+    },
+    {
+        "category": "Science",
+        "question": "What is the center of an atom called?",
+        "answers": [
+            {"text": "Electron", "correct": false},
+            {"text": "Neutron", "correct": false},
+            {"text": "Nucleus", "correct": true},
+            {"text": "Proton", "correct": false}
+        ]
+    },
+    {
+        "category": "Science",
+        "question": "Which organ in the human body pumps blood?",
+        "answers": [
+            {"text": "Lungs", "correct": false},
+            {"text": "Brain", "correct": false},
+            {"text": "Heart", "correct": true},
+            {"text": "Liver", "correct": false}
+        ]
+    },
+    {
+        "category": "Science",
+        "question": "What is the boiling point of water at sea level?",
+        "answers": [
+            {"text": "150°C", "correct": false},
+            {"text": "50°C", "correct": false},
+            {"text": "100°C", "correct": true},
+            {"text": "200°C", "correct": false}
+        ]
     }
 ]
