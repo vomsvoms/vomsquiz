@@ -28,5 +28,15 @@
             {"text": "Pacific Ocean", "correct": true},
             {"text": "Arctic Ocean", "correct": false}
         ]
+    },
+    {
+        "category": "Mathematics",
+        "question": "What is 48 ÷ 6?",
+        "answers": [
+            {"text": "6", "correct": false},
+            {"text": "7", "correct": false},
+            {"text": "8", "correct": true},
+            {"text": "9", "correct": false}
+        ]
     }
 ]
